@@ -1,6 +1,6 @@
-## Tailwind FrontEnd Easy Styling
+## KittyKorner-Bootstrap Easy Styling
 
-## Using Tailwind CSS made easier for everyone!
+## Using Bootstrap CSS made easier for everyone!
 
 <h2 align="center">
   <a href="https://faseehblogs.vercel.app/" target="_blank">faseehblogs.vercel.app</a>
@@ -31,9 +31,8 @@
 
 This project was built using these technologies.
 
-- Node.js
-- Tailwind Css
-- Javascript
+- Css
+- Bootstrap
 - VsCode
 - Html
 
@@ -43,29 +42,24 @@ This project was built using these technologies.
 
 **✏️ Easy to customize and write of your own**
 
-**🎨 Styled with Tailwind Css**
+**🎨 Styled with Bootstrap Css**
 
 ## Getting Started
 
 ### 🛠 Installation and Setup Instructions
 
-To get started just clone this repository. You will need `node.js` and `git` installed globally on your machine.
+To get started just clone this repository. You will need to download live server on your machine.
 
 Run
 
 ```
-npm install
+run on live server
 ```
-
-```
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open with your browser to see the result.
 
 ## Usage Instructions
 
-To write your own create a markdown file in `_content` folder with the specified format.
+To write your own create a new index.html and modify according to your own on requirements.
 
 ### Show your support
 
