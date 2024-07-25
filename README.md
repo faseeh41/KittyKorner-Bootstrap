@@ -3,7 +3,7 @@
 ## Using Bootstrap CSS made easier for everyone!
 
 <h2 align="center">
-  <a href="https://kitty-korner.vercel.app/" target="_blank">kitty-korner.vercel.app</a>
+  <a href="https://kitty-korner-faseeh.vercel.app/" target="_blank">kitty-korner-Faseeh.vercel.app</a>
 </h2>
 
 <div align="center">
